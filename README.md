@@ -30,6 +30,6 @@
 
 [基于PaddlePaddle的点击率的深度学习方法尝试 ](https://zhuanlan.zhihu.com/p/32699487)
 
-[腾讯社交广告“高校算法大赛”初赛 | 腾讯大学 ](http://daxue.qq.com/content/content/id/3314)
+[腾讯社交广告“高校算法大赛”初赛专家视频分享 | 腾讯大学 ](http://daxue.qq.com/content/content/id/3314)
 
 [腾讯广告算法大赛 | 第一周周冠军心得分享 ](https://mp.weixin.qq.com/s?src=11&timestamp=1525247288&ver=851&signature=*tfZlc85xDyIO6kbu9NqYj2HyozZEaJy5KyTBSjFbxp7mFnUinq-dZrCmTj3yV04YM6ZuI6w-eGioE3HhKbGJOZB1Tr8I3h2bLqtZFrVq70k3rWeTdw7IFww3usSbRJ2&new=1)
