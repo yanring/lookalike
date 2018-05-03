@@ -33,3 +33,5 @@
 [腾讯社交广告“高校算法大赛”初赛专家视频分享 | 腾讯大学 ](http://daxue.qq.com/content/content/id/3314)
 
 [腾讯广告算法大赛 | 第一周周冠军心得分享 ](https://mp.weixin.qq.com/s?src=11&timestamp=1525247288&ver=851&signature=*tfZlc85xDyIO6kbu9NqYj2HyozZEaJy5KyTBSjFbxp7mFnUinq-dZrCmTj3yV04YM6ZuI6w-eGioE3HhKbGJOZB1Tr8I3h2bLqtZFrVq70k3rWeTdw7IFww3usSbRJ2&new=1)
+
+[高维稀疏矩阵思路-1](https://tianchi.aliyun.com/notebook/detail.html?spm=5176.8366600.0.0.a4a4311faLPxmN&id=4782)
